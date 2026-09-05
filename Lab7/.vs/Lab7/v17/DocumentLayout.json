@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421#3curs\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|d:\\\u0441#3curs\\lab7\\lab7\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|solutionrelative:lab7\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|d:\\\u0441#3curs\\lab7\\lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|solutionrelative:lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|d:\\\u0441#3curs\\lab7\\lab7\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|solutionrelative:lab7\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|d:\\\u0441#3curs\\lab7\\lab7\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|solutionrelative:lab7\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|d:\\\u0441#3curs\\lab7\\lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B6D53B3-BFB8-4A30-A9F1-DA1F48CBD291}|Lab7\\Lab7.csproj|solutionrelative:lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab7\\Lab7\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Lab7\\StudentRepository.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab7\\Lab7\\StudentRepository.cs",
+              "RelativeToolTip": "Lab7\\StudentRepository.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAACAAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:32:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab7\\Lab7\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Lab7\\IStudentRepository.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab7\\Lab7\\IStudentRepository.cs",
+              "RelativeToolTip": "Lab7\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:26:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab7\\Lab7\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab7\\Form1.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab7\\Lab7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:56:11.202Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab7\\Lab7\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab7\\Form1.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab7\\Lab7\\Form1.cs",
+              "RelativeToolTip": "Lab7\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:51:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentPresenter.cs",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab7\\Lab7\\StudentPresenter.cs",
+              "RelativeDocumentMoniker": "Lab7\\StudentPresenter.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab7\\Lab7\\StudentPresenter.cs",
+              "RelativeToolTip": "Lab7\\StudentPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:37:52.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

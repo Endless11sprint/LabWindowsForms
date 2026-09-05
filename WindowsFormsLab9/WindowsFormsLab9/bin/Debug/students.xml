@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudentModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentModel>
+    <fIO>Иванов Иван Иванович</fIO>
+    <studentRecordBook>23-ИСТ-01</studentRecordBook>
+    <specification>Информационные системы</specification>
+  </StudentModel>
+  <StudentModel>
+    <fIO>Петрова Дарья Сергеевна</fIO>
+    <studentRecordBook>23-ПИ-05</studentRecordBook>
+    <specification>Прикладная информатика</specification>
+  </StudentModel>
+</ArrayOfStudentModel>

@@ -1,0 +1,14 @@
+D:\С#3curs\Lab1(dop)\Lab1(dop)\bin\Debug\net8.0\Lab1(dop).exe
+D:\С#3curs\Lab1(dop)\Lab1(dop)\bin\Debug\net8.0\Lab1(dop).deps.json
+D:\С#3curs\Lab1(dop)\Lab1(dop)\bin\Debug\net8.0\Lab1(dop).runtimeconfig.json
+D:\С#3curs\Lab1(dop)\Lab1(dop)\bin\Debug\net8.0\Lab1(dop).dll
+D:\С#3curs\Lab1(dop)\Lab1(dop)\bin\Debug\net8.0\Lab1(dop).pdb
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).GeneratedMSBuildEditorConfig.editorconfig
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).AssemblyInfoInputs.cache
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).AssemblyInfo.cs
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).csproj.CoreCompileInputs.cache
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).dll
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\refint\Lab1(dop).dll
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).pdb
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\Lab1(dop).genruntimeconfig.cache
+D:\С#3curs\Lab1(dop)\Lab1(dop)\obj\Debug\net8.0\ref\Lab1(dop).dll

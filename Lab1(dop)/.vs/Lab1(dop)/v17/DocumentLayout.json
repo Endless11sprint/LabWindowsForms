@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421#3curs\\Lab1(dop)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E320C95E-C7F9-49D3-ADE9-BEE74AFF938B}|Lab1(dop)\\Lab1(dop).csproj|d:\\\u0441#3curs\\lab1(dop)\\lab1(dop)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E320C95E-C7F9-49D3-ADE9-BEE74AFF938B}|Lab1(dop)\\Lab1(dop).csproj|solutionrelative:lab1(dop)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0421#3curs\\Lab1(dop)\\Lab1(dop)\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1(dop)\\Program.cs",
+              "ToolTip": "D:\\\u0421#3curs\\Lab1(dop)\\Lab1(dop)\\Program.cs*",
+              "RelativeToolTip": "Lab1(dop)\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:07:15.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
